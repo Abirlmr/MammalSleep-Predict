@@ -1,4 +1,4 @@
-# SleepPredictor-ML
+# SleepVarPrediction-ML
 
 Machine learning Project with Python labs
 
